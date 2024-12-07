@@ -1,2 +1,2 @@
-# Pwskills
+# Assignments
 This contains all the assignments
